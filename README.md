@@ -1,1 +1,1 @@
-horizontal recycler view (Hetrogenous layout)
+horizontal recycler view (Hetrogenous layout) 
